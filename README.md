@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodewithNiki
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php and mysql
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on amazing and mind-blowing projects
 - 📫 How to reach me on twitter @OlanikeOlubanji
 
